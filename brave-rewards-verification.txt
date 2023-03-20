@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: lywel.github.io
-Token: 36b2654820fded9d3762e5c3a9df705298f370d2abfaef6eab24ef3d44c24bd7
